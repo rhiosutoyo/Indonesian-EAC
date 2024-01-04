@@ -24,6 +24,20 @@ pages="861",
 DOI="10.24507/ijicic.19.03.861",
 URL="https://cir.nii.ac.jp/crid/1390014337396703232"
 }
+
+@article{rhio2023emotionally,
+title={Emotionally Aware Chatbot for Responding to Indonesian Product Reviews},
+author={Sutoyo, Rhio and Warnars, Harco Leslie Hendric Spits and Isa, Sani Muhamad and Budiharto, Widodo},
+journal={International Journal of Innovative Computing, Information and Control},
+volume={19},
+number={03},
+pages={861},
+year={2023},
+publisher={ICIC International},
+ISSN={1349-4198},
+DOI="10.24507/ijicic.19.03.861",
+URL="https://cir.nii.ac.jp/crid/1390014337396703232"
+}
 ```
 Kind regards,  
 Rhio Sutoyo

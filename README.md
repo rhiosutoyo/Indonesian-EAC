@@ -3,8 +3,10 @@ This research proposes a model to build an emotionally aware chatbot for respond
 	
 ## Resources
 The supporting research materials are as follows:
-- **Product Review Dataset with Emotions**: It consists of Amazon Review Data that is annotated with emotions ([link](https://github.com/rhiosutoyo/Indonesian-EAC/tree/main/dataset/product-reviews-with-emotions)).
-- **Knowledge Database**: It consists of predefined response templates for answering product reviews ([link](https://github.com/rhiosutoyo/Indonesian-EAC/blob/main/dataset/response-templates/predefined_respond_semicolon_delimited.csv)).
+- [**Product Review Dataset with Emotions**](https://github.com/rhiosutoyo/Indonesian-EAC/tree/main/dataset/product-reviews-with-emotions)<br>
+It consists of Amazon Review Data that is annotated with emotions.
+- [**Knowledge Database**](https://github.com/rhiosutoyo/Indonesian-EAC/blob/main/dataset/response-templates/predefined_respond_semicolon_delimited.csv)<br>
+It consists of predefined response templates for answering product reviews.
 
 ## BibTeX Citation
 If you use this dataset in a scientific publication, we would appreciate using the following citations:

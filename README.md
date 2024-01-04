@@ -1,10 +1,13 @@
 # Emotionally Aware Chatbot for Responding to Indonesian Product Reviews
-This research proposes a model to build an emotionally aware chatbot for responding to Indonesian product reviews. Six emotion recognition models are examined using two pre-trained models and a multilayer perceptron of a feedforward artificial neural network. Hyperparameter tuning is performed on all models to find the optimum performance.
+This research proposes a model to build an emotionally aware chatbot for responding to Indonesian product reviews. 
+Six emotion recognition models are examined using two pre-trained models and a multilayer perceptron of a feedforward artificial neural network.
 	
 ## Resources
+This work proposes a product review dataset annotated with Shaver's emotion model and several predefined response templates for each emotion to enable answer variations.
 The supporting research materials are as follows:
 - [**Product Review Dataset with Emotions**](https://github.com/rhiosutoyo/Indonesian-EAC/tree/main/dataset/product-reviews-with-emotions)<br>
-It consists of Amazon Review Data that is annotated with emotions.
+It consists of Amazon Review Data that is annotated with emotions.<br>
+The reliability of agreement between annotators for the proposed product review dataset is substantial (κ = 0.66).
 - [**Knowledge Database**](https://github.com/rhiosutoyo/Indonesian-EAC/blob/main/dataset/response-templates/predefined_respond_semicolon_delimited.csv)<br>
 It consists of predefined response templates for answering product reviews.
 

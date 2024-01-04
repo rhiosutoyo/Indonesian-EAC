@@ -6,7 +6,7 @@ Six emotion recognition models are examined using two pre-trained models and a m
 This work proposes a product review dataset annotated with Shaver's emotion model and several predefined response templates for each emotion to enable answer variations.
 The supporting research materials are as follows:
 - [**Product Review Dataset with Emotions**](https://github.com/rhiosutoyo/Indonesian-EAC/tree/main/dataset/product-reviews-with-emotions)<br>
-It consists of Amazon Review Data that is annotated with emotions.<br>
+It consists of Amazon Review Data that is annotated with emotions.
 The reliability of agreement between annotators for the proposed product review dataset is substantial (κ = 0.66).
 - [**Knowledge Database**](https://github.com/rhiosutoyo/Indonesian-EAC/blob/main/dataset/response-templates/predefined_respond_semicolon_delimited.csv)<br>
 It consists of predefined response templates for answering product reviews.

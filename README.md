@@ -1,8 +1,14 @@
 # Emotionally Aware Chatbot for Responding to Indonesian Product Reviews
-This research proposes a model to build an emotionally aware chatbot for responding to Indonesian product reviews. 
+This research proposes a model to build an emotionally aware chatbot to respond to Indonesian product reviews. 
 Six emotion recognition models are examined using two pre-trained models and a multilayer perceptron of a feedforward artificial neural network.
 The full report can be seen in [**this link**](http://www.ijicic.org/ijicic-190315.pdf).
-	
+
+Moreover, this research also has evaluated the emotinally aware chatbot and its believability factor.
+The experiment's evaluation results show that implementing the emotion recognition model on the chatbot increases its believability. 
+* On average, the believability measures in interaction type B (with an emotion model) are enhanced 1.71 times compared to interaction type A (a basic model).
+* Integrating a chatbot avatar into the interaction system also heightens the believability factor. Using avatars in chatbots increases the system's believability variables by 1.17 times compared to not using avatars.
+The full report can be seen in [**this link**](https://ieeexplore.ieee.org/document/10488202).
+
 ## Resources
 This work proposes a product review dataset annotated with Shaver's emotion model and several predefined response templates for each emotion to enable answer variations.
 The supporting research materials are as follows:
@@ -13,7 +19,7 @@ The reliability of agreement between annotators for the proposed product review 
 It consists of predefined response templates for answering product reviews.
 
 ## BibTeX Citation
-If you use this dataset in a scientific publication, we would appreciate using the following citations:
+If you use the research reports in a scientific publication, we would appreciate using the following citations:
 
 ```
 @article{rhio2023emotionally,
@@ -28,5 +34,18 @@ If you use this dataset in a scientific publication, we would appreciate using t
 	ISSN={1349-4198},
 	DOI={10.24507/ijicic.19.03.861},
 	URL={https://cir.nii.ac.jp/crid/1390014337396703232}
+}
+```
+```
+@INPROCEEDINGS{10488202,
+  author={Sutoyo, Rhio and Warnars, Harco Leslie Hendric Spits and Muhamad Isa, Sani and Budiharto, Widodo},
+  booktitle={2023 15th International Congress on Advanced Applied Informatics Winter (IIAI-AAI-Winter)}, 
+  title={The Impact of Emotion Recognition Models Towards Believability Factor of Chatbots}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={64-68},
+  keywords={Emotion recognition;Atmospheric measurements;Avatars;Chatbots;Particle measurements;Informatics;emotions recognition;emotionally aware chatbot;believability factor;natural language processing},
+  doi={10.1109/IIAI-AAI-Winter61682.2023.00020}}
 }
 ```
